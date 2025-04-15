@@ -1,0 +1,7 @@
+conectar-vpn.sh
+scripts/conectar-vpn.sh
+*.ovpn
+*.key
+*.crt
+*.zip
+
